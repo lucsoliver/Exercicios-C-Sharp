@@ -22,7 +22,6 @@ class exercicio3
             }
         }
 
-        // Print the unique fruit names
         Console.WriteLine("Lista de frutas únicas:");
         foreach (string fruit in uniqueFruits)
         {
